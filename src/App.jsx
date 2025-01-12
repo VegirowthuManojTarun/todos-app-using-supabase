@@ -5,7 +5,7 @@ import Login from "./components/Login";
 import Signup from "./components/Signup";
 import TodoList from "./components/TodoList";
 import ProtectedRoute from "./ProtectedRoute";
-import './app.css'
+import './App.css'
 
 const App = () => {
   return (
